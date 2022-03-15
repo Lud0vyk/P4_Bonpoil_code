@@ -373,10 +373,7 @@ a:hover {
 }
 
 .bloc-md .col-sm-12 h2 {
-    color: red!important;
     max-width: 80%;
-    /*display: flex;
-    align-content: space-around;*/
     padding-left: 21%;
     text-align: center;
 } /* a retravailler */                      /*          ***************          !!!!!!!!!!!!!!!!!          ***************          */
