@@ -377,7 +377,9 @@ a:hover {
     padding-left: 21%;
     text-align: center;
 } /* a retravailler */                      /*          ***************          !!!!!!!!!!!!!!!!!          ***************          */
-
+.voffset-lg h4 {
+    font-style: italic;
+}
 
 
 /*      *****       *****       *****       *****       *****       *****       *****       *****       *****       *****       *****         */
