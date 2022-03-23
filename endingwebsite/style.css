@@ -376,7 +376,7 @@ a:hover {
     max-width: 80%;
     padding-left: 21%;
     text-align: center;
-} /* a retravailler */                      /*          ***************          !!!!!!!!!!!!!!!!!          ***************          */
+}
 .voffset-lg h4 {
     font-style: italic;
 }
@@ -757,6 +757,9 @@ h4 {
 
 .white {
     color: #FFFFFF!important;
+}
+.black {
+    color : #222222;
 }
 
 .portfolio-thumb {
